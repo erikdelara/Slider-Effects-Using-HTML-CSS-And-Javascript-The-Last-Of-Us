@@ -50,5 +50,6 @@ function showSlider(type){
     }, timeAutoNext)
 }
 
-....
+...
+
 
