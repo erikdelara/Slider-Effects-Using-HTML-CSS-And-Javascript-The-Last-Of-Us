@@ -50,7 +50,7 @@ function showSlider(type){
     }, timeAutoNext)
 }
 
-....
+...
 
 
 
